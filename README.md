@@ -1,6 +1,6 @@
 # BOJ_Algorithm
 
-Language : Java
+## Language : Java
 
 Source : https://www.acmicpc.net/
 
