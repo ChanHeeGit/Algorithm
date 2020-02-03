@@ -2,5 +2,5 @@
 
 ## Language : Java
 
-Source : https://www.acmicpc.net/
+https://www.acmicpc.net/
 
