@@ -1,5 +1,5 @@
-# Algorithm
+## Algorithm
 
-## Language : Java, Python(2021 ~ )
+### Language : Java, Python(2021 ~ )
 
 
