@@ -1,6 +1,5 @@
-# BOJ_Algorithm
+# Algorithm
 
-## Language : Java
+## Language : Java, Python(2021 ~ )
 
-https://www.acmicpc.net/
 
