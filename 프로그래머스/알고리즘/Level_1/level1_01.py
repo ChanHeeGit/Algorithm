@@ -7,4 +7,4 @@ def solution(s):
         answer = True
     else :
         answer = False
-    return answer
+    return answer 
