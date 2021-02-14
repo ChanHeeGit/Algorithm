@@ -12,4 +12,4 @@ def solution(participant, completion):
     answer = participant[-1]
                 
             
-    return answe
+    return answer
