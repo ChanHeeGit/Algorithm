@@ -1,5 +1,5 @@
 # 프로그래머스 LEVEL1 
-# 문자열 내 p와 y의 개수
+# 문자열 내 p와 y의 개수 
 
 def solution(s):
     answer = True
