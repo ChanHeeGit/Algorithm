@@ -11,4 +11,4 @@ def solution(a, b):
     else:
         for i in range(a,b+1,1):
             answer+=i
-    return answer
+    return answer 
