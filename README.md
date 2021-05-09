@@ -1,5 +1,5 @@
 ## Algorithm
 
-### Language : Java, Python(2021 ~ )
+### Language : Java, Js, Mysql
 
 
